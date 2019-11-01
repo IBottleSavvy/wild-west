@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/IBottleSavvy/wild-west/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### RU
+1. О чем дальше написано?
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Здесь находится вся информация по игре "Wild wild wild west", которая поделена различные на пункты.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. Правила игры.
+```markdown
+## Казино(Casino):
+Делаешь ставки,если угадал то ставка на цифры 
+- от 1 до 36 и 0 дает ставка * 36
+- красное или черное ставка * 2
+- 1-12 / 13-24 / 25-36 ставка * 3
+  "Reset" - отменяет все ставки, до нажатия "Start".
+  
+## Рэйд на караван(Raid on caravan):
+Караваны движутся с разной скоростью (от 1 до 5), ваша задача угадать время прибытия карвана и взорвать бомбу по таймеру.
+- 1 караван = 500$
+- 2 каравана = 1500$
+- 3 каравана = 3000$
 
-### Jekyll Themes
+## Заработок денег(Raise money):
+Твоя задача настрелять как можно больше денег и с лучшим бонусом :)
+```
+3. Закрытый уровень "Город" (City).
+```markdown
+Этот уровень сейчас находится в разработке и игра в нем также будет происходить в реальном времени.
+Деньги ($), заработанные на других уровнях, понадобятся для его развития,а также выполнения заданий 
+Федерального Правительства (далее ФП).
+```
+4. История мира.
+```markdown
+Ты являешься главой одного из небольших городов в северных штатах америки во начале [гражданской войны](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%A8%D0%90) в 1861 году.
+Твоя задача всеми силами заработать денег для твоего города, улучшить положение дел местных жителей и не навлечь на себя гнев
+федеральных властей с их постоянными заданиями.
+```
+5. Таблица лидеров и достижения, магазин.
+```markdown
+Они будут в одном из ближайших обновлений (до патча 1.0.0).
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IBottleSavvy/wild-west/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Поддержка разработки игры.
+Свои предложения по развитию, улучшению и о всех багах в игре ты можешь написать мне на почту anton.nikolaev.kazan@gmail.com
+[Поддержать разработку](https://www.donationalerts.com/r/ibottlesavvy
+)
