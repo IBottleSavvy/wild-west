@@ -6,7 +6,6 @@ Here is all the information on the game "Wild wild wild west".
 ```
 [To support the developer](https://www.donationalerts.com/r/ibottlesavvy)
 
-2. Game rules.
 ## Casino:
 ```markdown
   
@@ -64,7 +63,6 @@ write to me by mail anton.nikolaev.kazan@gmail.com
 ```
 [Поддержать разработку](https://www.donationalerts.com/r/ibottlesavvy)
 
-2. Правила игры.
 ## Казино (Casino):
 ```markdown
   
